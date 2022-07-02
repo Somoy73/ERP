@@ -1,5 +1,5 @@
 # ERP
-An Enter Resource Planning Demo Project
+Enterprise Resource Planning Solution Demo Project
 
 Technology Used:
 - Spring Boot
